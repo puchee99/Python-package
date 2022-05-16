@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/puchee99/Python-package">
-    <img src="images/package.png" alt="Logo" width="80" height="80">
+    <img src="images/package.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Python package</h3>
@@ -153,4 +153,4 @@ Project Link: [https://github.com/puchee99/PytorchClassifier](https://github.com
 [license-url]: https://github.com/puchee99/Python-package/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/arnau-puche-vila-ds/
-[product-screenshot]: images/figures.png
+[product-screenshot]: images/package.jpg
