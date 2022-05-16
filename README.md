@@ -20,7 +20,7 @@
     <img src="images/package.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">PytorchClassifier</h3>
+  <h3 align="center">Python package</h3>
 
   <p align="center">
     Build Python package
