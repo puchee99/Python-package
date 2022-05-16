@@ -77,7 +77,6 @@ The goal of this project is to build a Python package. It should be good enough 
 
 ### Built With
 
-* [Pytorch](https://pytorch.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
