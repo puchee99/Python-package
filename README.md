@@ -95,7 +95,7 @@ First, clone the repository:
    ```
 Access to the project folder with:
   ```sh
-  cd Flask-App
+  cd Python-package
   ```
 
 We will create a virtual environment with `python3`
