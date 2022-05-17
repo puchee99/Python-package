@@ -67,12 +67,9 @@
 
 ![product-screenshot]
 
-[Image][product-screenshot]
-
 The goal of this project is to build a Python package. It should be good enough to be cut up and used for different projects.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -113,10 +110,21 @@ We will create a virtual environment with `python3`
     pip install -r requirements.txt
     ```
 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Usage
 
+* Build library
+    ```sh
+    python setup.py bdist_wheel
+    ```
+
+* Install library
+    ```sh
+    cd dist
+    pip install mypythonlib-0.1.0-py3-none-any.whl 
+    ```
 
 
 ## Roadmap
@@ -153,3 +161,4 @@ Project Link: [https://github.com/puchee99/PytorchClassifier](https://github.com
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/arnau-puche-vila-ds/
 [product-screenshot]: images/package.jpg
+
