@@ -1,0 +1,5 @@
+.eggs
+dist
+build
+.DS_Store
+info.txt
