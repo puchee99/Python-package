@@ -25,14 +25,14 @@
   <p align="center">
     Build Python package
     <br />
-    <a href="https://github.com/puchee99/PytorchClassifier"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/puchee99/Python-package"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/puchee99/PytorchClassifier">View Demo</a>
+    <a href="https://github.com/puchee99/Python-package">View Demo</a>
     ·
-    <a href="https://github.com/puchee99/PytorchClassifier/issues">Report Bug</a>
+    <a href="https://github.com/puchee99/Python-package/issues">Report Bug</a>
     ·
-    <a href="https://github.com/puchee99/PytorchClassifier/issues">Request Feature</a>
+    <a href="https://github.com/puchee99/Python-package/issues">Request Feature</a>
   </p>
 </div>
 
